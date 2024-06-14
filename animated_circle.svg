@@ -1,22 +1,22 @@
 <svg width="300px" height="50px" xmlns="http://www.w3.org/2000/svg">
     <text font-family="monospace" font-size="20" fill="black">
         <tspan x="250" y="30" fill="#E63946">C
-            <animate attributeName="x" from="250" to="10" dur="2s" begin="0s" fill="freeze" />
+            <animate attributeName="x" from="250" to="10" dur="1s" begin="0s" fill="freeze" />
         </tspan>
         <tspan x="250" y="30" fill="#7661ff">O
-            <animate attributeName="x" from="250" to="40" dur="2s" begin="0.5s" fill="freeze" />
+            <animate attributeName="x" from="250" to="40" dur="1s" begin="1s" fill="freeze" />
         </tspan>
         <tspan x="250" y="30" fill="#A8DADC">D
-            <animate attributeName="x" from="250" to="70" dur="2s" begin="1s" fill="freeze" />
+            <animate attributeName="x" from="250" to="70" dur="1s" begin="2s" fill="freeze" />
         </tspan>
         <tspan x="250" y="30" fill="#457B9D">I
-            <animate attributeName="x" from="250" to="100" dur="2s" begin="1.5s" fill="freeze" />
+            <animate attributeName="x" from="250" to="100" dur="1s" begin="3s" fill="freeze" />
         </tspan>
         <tspan x="250" y="30" fill="#1D3557">N
-            <animate attributeName="x" from="250" to="130" dur="2s" begin="2s" fill="freeze" />
+            <animate attributeName="x" from="250" to="130" dur="1s" begin="4s" fill="freeze" />
         </tspan>
         <tspan x="250" y="30" fill="#F4A261">G
-            <animate attributeName="x" from="250" to="160" dur="2s" begin="2.5s" fill="freeze" />
+            <animate attributeName="x" from="250" to="160" dur="1s" begin="5s" fill="freeze" />
         </tspan>
     </text>
 </svg>
