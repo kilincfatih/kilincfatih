@@ -1,15 +1,22 @@
-
-<svg width="150px" height="150px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-    <rect x="5" y="10" width="15" height="10" fill="blue">
-        <animate attributeName="y" from="10" to="5" dur="0.5s" repeatCount="indefinite" />
-        <animate attributeName="height" from="10" to="15" dur="0.5s" repeatCount="indefinite" />
-    </rect>
-    <text x="4" y="20" font-family="monospace" font-size="5">
-        <tspan fill="white">C</tspan>
-        <tspan fill="red" dy="-5">o</tspan>
-        <tspan fill="green">d</tspan>
-        <tspan fill="blue">e</tspan>
-        <animate attributeName="x" values="4;24;4" dur="2s" repeatCount="indefinite"/>
+<svg width="300px" height="50px" xmlns="http://www.w3.org/2000/svg">
+    <text font-family="monospace" font-size="20" fill="black">
+        <tspan x="250" y="30" fill="#E63946">C
+            <animate attributeName="x" from="250" to="10" dur="2s" begin="0s" fill="freeze" />
+        </tspan>
+        <tspan x="250" y="30" fill="#7661ff">O
+            <animate attributeName="x" from="250" to="40" dur="2s" begin="0.5s" fill="freeze" />
+        </tspan>
+        <tspan x="250" y="30" fill="#A8DADC">D
+            <animate attributeName="x" from="250" to="70" dur="2s" begin="1s" fill="freeze" />
+        </tspan>
+        <tspan x="250" y="30" fill="#457B9D">I
+            <animate attributeName="x" from="250" to="100" dur="2s" begin="1.5s" fill="freeze" />
+        </tspan>
+        <tspan x="250" y="30" fill="#1D3557">N
+            <animate attributeName="x" from="250" to="130" dur="2s" begin="2s" fill="freeze" />
+        </tspan>
+        <tspan x="250" y="30" fill="#F4A261">G
+            <animate attributeName="x" from="250" to="160" dur="2s" begin="2.5s" fill="freeze" />
+        </tspan>
     </text>
 </svg>
-
