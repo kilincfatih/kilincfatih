@@ -1,6 +1,15 @@
 
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="50" cy="50" r="40" fill="red">
-    <animate attributeType="XML" attributeName="fill" values="red;blue;red" dur="2s" repeatCount="indefinite"/>
-  </circle>
+<svg width="150px" height="150px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+    <rect x="5" y="10" width="15" height="10" fill="blue">
+        <animate attributeName="y" from="10" to="5" dur="0.5s" repeatCount="indefinite" />
+        <animate attributeName="height" from="10" to="15" dur="0.5s" repeatCount="indefinite" />
+    </rect>
+    <text x="4" y="20" font-family="monospace" font-size="5">
+        <tspan fill="white">C</tspan>
+        <tspan fill="red" dy="-5">o</tspan>
+        <tspan fill="green">d</tspan>
+        <tspan fill="blue">e</tspan>
+        <animate attributeName="x" values="4;24;4" dur="2s" repeatCount="indefinite"/>
+    </text>
 </svg>
+
