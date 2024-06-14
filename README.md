@@ -64,7 +64,7 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kilincfatih&show_icons=true&locale=en&layout=compact" alt="kilincfatih" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kilincfatih&show_icons=true&locale=en" alt="kilincfatih" /></p>
   <br/>
-  <h3 align="center">Here is a cool animation:</h3>
+
   <p align="center">
     <img src="https://github.com/kilincfatih/kilincfatih/blob/main/animated_circle.svg" alt="Animated SVG" />
   </p>
